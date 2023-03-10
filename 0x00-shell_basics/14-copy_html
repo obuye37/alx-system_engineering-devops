@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -n *.html --parent ../*.html
+cp -n `find -name \*.html*` ../
