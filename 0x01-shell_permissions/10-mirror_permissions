@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 354 ./olleh --refrence=olleh hello
+chmod --refrence=./olleh ./hello
