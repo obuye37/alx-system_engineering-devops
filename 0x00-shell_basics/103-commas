@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l -u -a -m -p
+ls -la -u -m -p --reverse
