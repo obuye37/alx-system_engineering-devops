@@ -1,2 +1,2 @@
 #!/bin/bash
-cat $BINARY |wc -m
+echo $((2* $BINARY))
